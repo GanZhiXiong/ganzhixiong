@@ -1,7 +1,10 @@
 ### Hi, I'm 干志雄. 👋
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ganzhixiong&theme=tokyonight&show_icons=true)](https://github.com/ganzhixiong)
 
 <!--events start -->
+
+<a href="https://github.com/wuhan005?tab=repositories">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ganzhixiong&theme=tokyonight&show_icons=true" width="45%" />
+</a>
 
 Here are some quick things about me:
 
