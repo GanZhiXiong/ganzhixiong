@@ -2,9 +2,12 @@
 
 <!--events start -->
 
+<!--
 <a href="https://github.com/wuhan005?tab=repositories">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ganzhixiong&theme=tokyonight&show_icons=true" width="45%" />
 </a>
+-->
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ganzhixiong&theme=tokyonight&show_icons=true)](https://github.com/ganzhixiong)
 
 Here are some quick things about me:
 
