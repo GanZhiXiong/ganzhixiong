@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=88250&theme=tokyonight&show_icons=true)](https://github.com/ganzhixiong)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ganzhixiong&theme=tokyonight&show_icons=true)](https://github.com/ganzhixiong)
 
 <!--events start -->
 
