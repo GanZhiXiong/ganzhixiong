@@ -15,7 +15,7 @@ Here are some quick things about me:
 - 🤝 Love Open Source.
 - 🍎 Love Linux and macOS.
 - ✍️ Blog at [www.ganzhixiong.com](https://ganzhixiong.com/).
-- ☎️ Please contact me by email [gan.zhixiong@qq.com](gan.zhixiong@qq.com).
+- ☎️ Contact me by email [gan.zhixiong@qq.com](gan.zhixiong@qq.com).
 - 🤟 My favorite singers are 黄家驹🎸（Beyond）.
 
 <!--
