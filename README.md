@@ -16,7 +16,7 @@ Here are some quick things about me:
 - 🍎 Love Linux and macOS.
 - ✍️ Blog at [www.ganzhixiong.com](https://ganzhixiong.com/).
 - ☎️ Contact me by email [gan.zhixiong@qq.com](gan.zhixiong@qq.com).
-- 🤟 My favorite singers are 黄家驹🎸（Beyond）.
+- 🤟 My favorite singers are 黄家驹🎸 (Beyond).
 
 <!--
 **GanZhiXiong/ganzhixiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
