@@ -17,6 +17,8 @@ Here are some quick things about me:
 - ☎️ Contact me by email <gan.zhixiong@qq.com>.
 - 🤟 My favorite singers are 🎸黄家驹🎸 (Beyond).
 
+![](https://github-readme-stats.vercel.app/api?username=ganzhixiong&show_icons=true&hide_border=true&title_color=02d7f2&icon_color=02d7f2&text_color=ffffff&bg_color=00000000)
+
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=ganzhixiong&theme=tokyonight&show_icons=true)](https://github.com/ganzhixiong)
 
 <!--
