@@ -2,11 +2,11 @@
 
 <!--events start -->
 
-<!--
+
 <a href="https://github.com/wuhan005?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ganzhixiong&theme=tokyonight&show_icons=true" width="45%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganzhixiong&hide=css,html&hide_border=true&title_color=02d7f2&icon_color=02d7f2&text_color=ffffff&bg_color=00000000" width="45%" />
 </a>
--->
+
 
 Here are some quick things about me:
 
