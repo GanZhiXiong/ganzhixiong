@@ -12,7 +12,7 @@ Here are some quick things about me:
 - 🤟 My favorite singers are 🎸黄家驹🎸 (Beyond).
 
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ganzhixiong&theme=tokyonight&show_icons=true)](https://github.com/ganzhixiong)
+![GanZhiXiong GitHub stats](https://github-readme-stats.vercel.app/api?username=ganzhixiong&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true)
 
 <!--
 **GanZhiXiong/ganzhixiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
