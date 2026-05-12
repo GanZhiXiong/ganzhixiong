@@ -4,15 +4,13 @@
 
 Here are some quick things about me:
 
-- 🐭 Focus on Golang.
+- 🐭 Focus on Flutter\Node.js.
 - 🤝 Love Open Source.
 - 🍎 Love Linux and macOS.
 - ✍️ Blog at [www.ganzhixiong.com](https://ganzhixiong.com/).
 - ☎️ Contact me by email <gan.zhixiong@qq.com>.
-- 🤟 My favorite singers are 🎸黄家驹🎸 (Beyond).
 
 
-![GanZhiXiong GitHub stats](https://github-readme-stats.vercel.app/api?username=ganzhixiong&count_private=true&theme=tokyonight&include_all_commits=true&show_icons=true)
 
 <!--
 **GanZhiXiong/ganzhixiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
