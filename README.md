@@ -4,7 +4,7 @@
 
 Here are some quick things about me:
 
-- 📱 Focus on Flutter\Node.js.
+- 📱 Focus on Flutter Node.js.
 - 🤝 Love Open Source.
 - 🍎 Love Linux and macOS.
 - ✍️ Blog at [www.ganzhixiong.com](https://ganzhixiong.com/).
